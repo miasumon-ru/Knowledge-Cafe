@@ -1,0 +1,46 @@
+ 
+
+[
+    {
+      "id": "1",
+      "cover": "https://i.postimg.cc/Dw2WPYxv/1.jpg",
+      "title": "Python for Beginners",
+      "author": "John Smith",
+      "author_img": "https://i.postimg.cc/5ySNdVfk/boy1.png",
+      "posted_date": "2024-03-13",
+      "reading_time": "5 mins",
+      "hashtags": ["python", "beginner", "programming"]
+    },
+    {
+      "id": "2",
+      "cover": "https://i.postimg.cc/B6hNJKtD/2.png",
+      "title": "Web Development with JavaScript",
+      "author": "Emily Johnson",
+      "author_img": "https://i.postimg.cc/BZp00Nxy/boy2.jpg",
+      "posted_date": "2024-03-12",
+      "reading_time": "6 mins",
+      "hashtags": ["javascript", "webdev", "frontend", "backend"]
+    },
+    {
+      "id": "3",
+      "cover": "https://i.postimg.cc/TwhgqHYL/3.png",
+      "title": "Mastering Algorithms and Data Structures",
+      "author": "David Miller",
+      "author_img": "https://i.postimg.cc/YSY5yxrd/girl1.jpg",
+      "posted_date": "2024-03-11",
+      "reading_time": "9 mins",
+      "hashtags": ["algorithms", "datastructures", "programming"]
+    },
+    {
+      "id": "4",
+      "cover": "https://i.postimg.cc/W1XFqMLf/4.jpg",
+      "title": "Machine Learning Fundamentals",
+      "author": "Sophia Brown",
+      "author_img": "https://i.postimg.cc/tJwDjLDW/girl2.jpg",
+      "posted_date": "2024-03-10",
+      "reading_time": "12 mins",
+      "hashtags": ["machinelearning", "datascience", "AI"]
+    }
+  
+  ]
+  
