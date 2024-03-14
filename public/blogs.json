@@ -8,7 +8,7 @@
       "author": "John Smith",
       "author_img": "https://i.postimg.cc/5ySNdVfk/boy1.png",
       "posted_date": "2024-03-13",
-      "reading_time": "5 mins",
+      "reading_time": 5,
       "hashtags": ["python", "beginner", "programming"]
     },
     {
@@ -18,7 +18,7 @@
       "author": "Emily Johnson",
       "author_img": "https://i.postimg.cc/BZp00Nxy/boy2.jpg",
       "posted_date": "2024-03-12",
-      "reading_time": "6 mins",
+      "reading_time": 6,
       "hashtags": ["javascript", "webdev", "frontend", "backend"]
     },
     {
@@ -28,7 +28,7 @@
       "author": "David Miller",
       "author_img": "https://i.postimg.cc/YSY5yxrd/girl1.jpg",
       "posted_date": "2024-03-11",
-      "reading_time": "9 mins",
+      "reading_time": 9,
       "hashtags": ["algorithms", "datastructures", "programming"]
     },
     {
@@ -38,7 +38,7 @@
       "author": "Sophia Brown",
       "author_img": "https://i.postimg.cc/tJwDjLDW/girl2.jpg",
       "posted_date": "2024-03-10",
-      "reading_time": "12 mins",
+      "reading_time": 12,
       "hashtags": ["machinelearning", "datascience", "AI"]
     }
   

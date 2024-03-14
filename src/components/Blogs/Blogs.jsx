@@ -1,12 +1,12 @@
 
 
-// import PropTypes from 'prop-types';
+import PropTypes from 'prop-types';
 
 import { useEffect } from 'react';
 import { useState } from 'react';
 import Blog from '../Blog/Blog';
 
-const Blogs = () => {
+const Blogs = ({handleBookmark, handleReadingTime}) => {
 
     const [blogs, setBlogs] = useState([])
 
@@ -25,7 +25,7 @@ const Blogs = () => {
             <h4 className='text-2xl font-medium'> Blogs : {blogs.length} </h4>
 
             {
-                blogs.map(blog => <Blog key={blog.id} blog={blog}> </Blog>)
+                blogs.map(blog => <Blog handleBookmark={handleBookmark} handleReadingTime={handleReadingTime} key={blog.id} blog={blog}> </Blog>)
             }
             
         </div>
@@ -33,6 +33,8 @@ const Blogs = () => {
 };
 
 Blogs.propTypes = {
+    handleBookmark: PropTypes.func.isRequired,
+    handleReadingTime : PropTypes.func.isRequired
     
 };
 
